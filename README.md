@@ -13,6 +13,6 @@ This project is for beginners and will teach you how to analyze the music playli
    
 
 Schema- Music Store Database
-   
+   <img src="[sqlimage](https://github.com/shivani1426/Music-Store/blob/main/sqlimage.png)">
 
 
