@@ -6,6 +6,10 @@ This project is for beginners and will teach you how to analyze the music playli
 
 <h2> Database and Tools </h2>
 
-Postgre SQL
-PgAdmin4
+ <ul>
+      <li>Postgre SQL</li>
+      <li>PgAdmin4</li>
+   
+    </ul>
+
 
